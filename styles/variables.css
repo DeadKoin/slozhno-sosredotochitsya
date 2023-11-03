@@ -1,9 +1,11 @@
 :root {
+  --background-image: url(../images/cover-image-dark.png);
   --main-color: #ff0070;
   --paragraph-text: #f1b2ce;
   --title-text: #000028;
   --main-text: #DB00FF;
   --content-title: #ff0070;
   --text-shadow: #ff0070;
-  --button-text: #ff0070; 
+  --button-text: #ff0070;
+  --button-active: rgba(255, 0, 112, 0.40);
 }
