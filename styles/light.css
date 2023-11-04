@@ -6,7 +6,8 @@
   --main-text: #FFC2E6;
   --button-text: #353430;
   --title-text: #353430;
-  --button-active: rgba(50, 49, 45, 0.40);
+  --button-active: #353430;
+  --button-hover: rgba(50, 49, 45, 0.40);
 }
  .theme_light .decorative-element {
     display: none;
@@ -20,12 +21,16 @@
   --main-text: #FFC2E6;
   --button-text: #353430;
   --title-text: #353430;
-  --button-active: rgba(50, 49, 45, 0.40); 
+  --button-active: #353430;
+  --button-hover: rgba(50, 49, 45, 0.40); 
   }
   .decorative-element {
     display: none;
  }
 }
+
+
+
 
 
 
