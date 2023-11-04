@@ -7,5 +7,6 @@
   --content-title: #ff0070;
   --text-shadow: #ff0070;
   --button-text: #ff0070;
-  --button-active: rgba(255, 0, 112, 0.40); 
+  --button-active: #ff0070;
+  --button-hover: rgba(255, 0, 112, 0.40);
   }
